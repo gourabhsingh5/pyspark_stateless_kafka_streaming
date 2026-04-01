@@ -1,0 +1,4 @@
+faker==24.8.0
+pyspark==3.5.1
+kafka-python==2.0.2
+google-cloud-storage==2.16.0
